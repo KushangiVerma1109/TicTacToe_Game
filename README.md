@@ -1,4 +1,4 @@
-# TicToeGame
+# TicTacToeGame
 
 # This C program implements a simple two-player Tic Tac Toe game, where two players take turns to mark spaces in a 3×3 grid with 'X' or 'O'. The game ends when one player wins or the grid is full and results in a draw.
 
